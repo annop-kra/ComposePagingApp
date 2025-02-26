@@ -1,4 +1,4 @@
-package com.ankn.composepagingapp
+package com.ankn.composepagingapp.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -11,7 +11,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.ankn.composepagingapp.ui.theme.ComposePagingAppTheme
+import com.ankn.composepagingapp.presentation.ui.theme.ComposePagingAppTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

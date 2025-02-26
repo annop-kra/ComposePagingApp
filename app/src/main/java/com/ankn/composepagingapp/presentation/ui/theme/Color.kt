@@ -1,4 +1,4 @@
-package com.ankn.composepagingapp.ui.theme
+package com.ankn.composepagingapp.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
